@@ -1,10 +1,8 @@
 {
-  "category": "URBAN_LEGEND",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/orang-minyak",
     "maintainers": [
       {
@@ -16,586 +14,113 @@
     "license": {
       "data": "CC0-1.0",
       "content": "CC-BY-4.0"
-    },
-    "content_warning": "This entry discusses sexual assault, moral panic, and violence against women. While the phenomenon exists as folklore and urban legend, real sexual assaults occurred during panic periods."
+    }
   },
-
   "phenomenon": {
     "id": "orang-minyak",
-    "name": "Orang Minyak",
-    "aliases": [
-      {
-        "name": "Oily Man",
-        "language": "English",
-        "region": "Malaysia, Singapore"
-      },
-      {
-        "name": "Minyak Hitam",
-        "language": "Malay",
-        "meaning": "black oil"
-      }
-    ],
-    "category": "URBAN_LEGEND",
-    "subcategory": "Moral Panic",
+    "name": "Orang Minyak (The Oily Man)",
+    "aliases": [],
+    "category": "URBAN_LEGEND_/_MORAL_PANIC",
+    "subcategory": "Unknown",
     "tags": [
-      "urban-legend",
-      "moral-panic",
       "folklore",
-      "sexual-assault",
-      "malaysia",
-      "singapore",
-      "social-phenomenon",
-      "gender",
-      "supernatural",
-      "criminal",
-      "1960s-1970s"
+      "mythology"
     ],
-    "status": "historical",
+    "status": "documented",
     "description": {
-      "summary": "A Malaysian and Singaporean urban legend describing a naked man covered in black oil who assaults women. The phenomenon represents a complex intersection of traditional folklore, modern moral panic, actual criminal activity, and gendered anxieties about safety and modernity in post-colonial Southeast Asia.",
-      "full": "The Orang Minyak (Oily Man) is a figure in Malaysian and Singaporean folklore and urban legend, typically described as a naked man covered head-to-toe in black oil or grease who breaks into homes to assault women. The legend combines elements of traditional Malay supernatural beliefs with modern urban fears, peaking as a moral panic during the 1960s-1970s. While rooted in folklore about men gaining supernatural powers through occult rituals involving oil, the phenomenon became infamous through waves of reported assaults that sparked widespread fear, police investigations, and significant social discourse about women's safety, modernity, and cultural change. The Orang Minyak represents a complex case study in how folklore intersects with real crime, mass hysteria, media amplification, and gendered violence."
+      "summary": "The **Orang Minyak** (Malay: \\\"Oily Man\\\") represents one of Southeast Asia's most disturbing and complex urban legends—a phenomenon that exists at the intersection of traditional folklore, criminal activity, moral panic, and gendered violence.",
+      "full": "The **Orang Minyak** (Malay: \\\"Oily Man\\\") represents one of Southeast Asia's most disturbing and complex urban legends—a phenomenon that exists at the intersection of traditional folklore, criminal activity, moral panic, and gendered violence. Described as a naked man covered entirely in black oil who breaks into homes to assault women, the Orang Minyak became the subject of widespread panic in Malaysia and Singapore, particularly during the 1960s-1970s."
     },
     "etymology": {
-      "origin": "Malay compound: 'orang' (person/man) + 'minyak' (oil)",
-      "meaning": "Oil Man or Oily Man",
-      "first_use": "Folkloric traditions pre-1950s; mass media usage from 1960s"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
-      "category": "URBAN_LEGEND",
-      "type": "Moral Panic",
-      "subtype": "Folklore-Criminal Hybrid",
-      "variant": "Southeast Asian"
+      "category": "URBAN_LEGEND_/_MORAL_PANIC",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "spring-heeled-jack",
-        "name": "Spring-Heeled Jack",
-        "relationship": "similar",
-        "description": "Victorian-era attacker/panic in England, similar moral panic dynamics"
-      },
-      {
-        "id": "penanggalan",
-        "name": "Penanggalan",
-        "relationship": "cultural_context",
-        "description": "Malaysian vampire folklore, shares cultural anxiety themes"
-      },
-      {
-        "id": "satanic-panic",
-        "name": "Satanic Panic",
-        "relationship": "similar",
-        "description": "1980s Western moral panic with similar mass hysteria patterns"
-      },
-      {
-        "id": "black-eyed-children",
-        "name": "Black-Eyed Children",
-        "relationship": "structural_parallel",
-        "description": "Modern urban legend with invasion/vulnerability themes"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "appearance": {
-        "description": "Described as completely naked male figure covered entirely in black, slippery oil or grease",
-        "consistency": "remarkably consistent across reports"
-      },
-      "height": {
-        "description": "Typically described as average to above-average male height",
-        "unit": "meters",
-        "confidence": "low"
-      },
-      "defining_features": [
-        {
-          "feature": "Oil coating",
-          "description": "Entire body covered in thick black oil or grease, making the figure appear featureless and dark",
-          "frequency": "always"
-        },
-        {
-          "feature": "Nakedness",
-          "description": "Completely unclothed",
-          "frequency": "always"
-        },
-        {
-          "feature": "Face obscured",
-          "description": "Facial features hidden by oil coating, often described as faceless or featureless",
-          "frequency": "common"
-        },
-        {
-          "feature": "Glowing eyes",
-          "description": "Sometimes reported to have glowing or reflective eyes visible through oil",
-          "frequency": "occasional"
-        }
-      ]
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Slipperiness",
-        "description": "Oil coating makes the figure impossible to grab or hold; slips through hands and restraints",
-        "frequency": "always",
-        "evidence_level": "reported",
-        "type": "physical"
-      },
-      {
-        "ability": "Wall climbing",
-        "description": "Ability to scale walls and buildings, often to reach upper floor windows",
-        "frequency": "common",
-        "evidence_level": "reported",
-        "type": "supernatural"
-      },
-      {
-        "ability": "Supernatural speed",
-        "description": "Moves with unnatural speed and agility",
-        "frequency": "common",
-        "evidence_level": "reported",
-        "type": "supernatural"
-      },
-      {
-        "ability": "Elusiveness",
-        "description": "Ability to evade capture despite numerous encounters",
-        "frequency": "common",
-        "evidence_level": "reported",
-        "type": "supernatural"
-      },
-      {
-        "ability": "Invisibility",
-        "description": "Some versions claim ability to become invisible or disappear",
-        "frequency": "rare",
-        "evidence_level": "folklore",
-        "type": "supernatural"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "nocturnal",
-      "disposition": "predatory",
-      "targets": "Young unmarried women (traditional lore); women generally (modern panic)",
-      "method": "Breaking into homes through windows, targeting sleeping or isolated women",
-      "patterns": [
-        "Targets residential areas, particularly kampung (villages) and low-income housing",
-        "Attacks during night hours, often in periods of heightened media coverage",
-        "Reports cluster geographically and temporally",
-        "Leaves oil traces as evidence of presence"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Primarily Malaysia and Singapore, with concentration in Peninsular Malaysia. Reports from both urban and rural areas, particularly kampung settlements.",
-      "continents": ["Asia"],
-      "countries": ["Malaysia", "Singapore"],
-      "regions": [
-        "Peninsular Malaysia",
-        "Kuala Lumpur",
-        "Selangor",
-        "Johor",
-        "Singapore",
-        "Perak",
-        "Pahang"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Pre-1950s",
+        "date": "Unknown",
         "circa": true,
-        "source": "Folkloric traditions; exact dating uncertain"
-      },
-      "peak_activity_periods": [
-        {
-          "period": "1957-1958",
-          "description": "First major wave of reported assaults in Singapore following independence tensions"
-        },
-        {
-          "period": "1965-1975",
-          "description": "Peak moral panic period in Malaysia following racial tensions and social change"
-        },
-        {
-          "period": "1970s-1980s",
-          "description": "Periodic waves of reports in various Malaysian states"
-        },
-        {
-          "period": "2012-2013",
-          "description": "Minor resurgence in reports, amplified by social media"
-        }
-      ],
-      "current_status": "Largely dormant since 1990s; occasional revival in popular culture and isolated reports"
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Rooted in Malay black magic (ilmu hitam) traditions. According to folklore, men would undergo occult rituals involving coating themselves in oil blessed by bomoh (shamans) to gain supernatural powers including invisibility, invulnerability, and the ability to seduce or assault women without being caught.",
-      "traditional_narrative": "Traditional tales describe men seeking supernatural powers through deals with spirits (djinn), requiring rituals involving black oil derived from coconuts or other sources, often performed in graveyards or at crossroads during specific moon phases.",
-      "folklore_function": "Served as cautionary tale about forbidden knowledge, male desire, and the dangers of black magic; also functioned as explanation for unexplained assaults or disappearances"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "Pre-1950s",
-        "event": "Traditional folklore established",
-        "significance": "Orang Minyak exists as cautionary tale in Malay folklore about black magic and its consequences",
-        "source": "Oral tradition"
-      },
-      {
-        "date": "1957-11",
-        "event": "Singapore panic wave begins",
-        "significance": "Multiple reports of oil-covered attacker in Singapore housing estates following independence period tensions",
-        "source": "Singapore newspaper archives"
-      },
-      {
-        "date": "1965-1967",
-        "event": "Malaysian panic peak",
-        "significance": "Widespread reports across Malaysia following racial riots and independence of Singapore; massive media coverage",
-        "source": "Malaysian newspapers (Utusan Malaysia, The Straits Times)"
-      },
-      {
-        "date": "1968",
-        "event": "Film 'Orang Minyak' released",
-        "significance": "P. Ramlee's horror film further embeds figure in popular culture, potentially amplifying reports",
-        "source": "Malaysian film archives"
-      },
-      {
-        "date": "1970-1973",
-        "event": "Perak state panic",
-        "significance": "Concentrated wave of reports in Perak, leading to police patrols and community vigilance",
-        "source": "Police records and newspaper reports"
-      },
-      {
-        "date": "1977-1978",
-        "event": "Johor incidents",
-        "significance": "Series of reported assaults attributed to Orang Minyak in Johor Bahru area",
-        "source": "Malaysian news archives"
-      },
-      {
-        "date": "1981",
-        "event": "Arrests and skepticism increase",
-        "significance": "Several arrests of men using oil to evade capture; growing public skepticism about supernatural aspects",
-        "source": "Police reports"
-      },
-      {
-        "date": "2012-2013",
-        "event": "Social media revival",
-        "significance": "Reports resurface in East Malaysia, amplified through social media platforms",
-        "source": "Online news and social media"
-      }
-    ],
-    "modern_era": "The Orang Minyak has largely transitioned from active urban legend to historical cultural phenomenon, studied by anthropologists, folklorists, and gender studies scholars as a case of moral panic intersecting with real crime, media amplification, and social anxieties during Malaysia's modernization."
+    "timeline": []
   },
-
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
   "evidence": {
-    "physical": [
-      {
-        "type": "oil traces",
-        "description": "Oil or grease marks found at alleged entry points (windows, walls)",
-        "status": "documented",
-        "analysis": "Confirmed in some cases; however, easily hoaxed or could result from normal sources"
-      },
-      {
-        "type": "footprints",
-        "description": "Oil-covered footprints in homes",
-        "status": "documented",
-        "analysis": "Documented in police reports but not subjected to forensic analysis"
-      }
-    ],
-    "criminal": [
-      {
-        "type": "assault reports",
-        "description": "Documented police reports of sexual assaults attributed to Orang Minyak",
-        "status": "confirmed",
-        "analysis": "Real assaults occurred; debate centers on whether perpetrators used oil strategically, believed folklore, or victims/witnesses interpreted attacks through folkloric lens",
-        "significance": "Critical to understanding phenomenon as not purely mythical"
-      },
-      {
-        "type": "arrests",
-        "description": "Multiple arrests of men covered in oil attempting assaults",
-        "status": "confirmed",
-        "analysis": "Confirms human perpetrators using oil; unclear if supernatural beliefs motivated them or if oil was purely tactical",
-        "examples": [
-          "1970s Perak arrest of man with oil-covered body",
-          "1981 Johor arrest of assault suspect using cooking oil"
-        ]
-      }
-    ],
-    "testimonial": [
-      {
-        "type": "victim accounts",
-        "description": "Witness testimony from women reporting attacks by oil-covered figures",
-        "status": "documented",
-        "analysis": "Consistent description of oil-covered attacker; supernatural elements may reflect trauma, cultural interpretation, or actual tactics used by perpetrators"
-      },
-      {
-        "type": "police reports",
-        "description": "Official police documentation of complaints and investigations",
-        "status": "documented",
-        "analysis": "Confirms social reality of panic and genuine investigations; police skeptical of supernatural claims but took reports seriously"
-      }
-    ],
-    "media": [
-      {
-        "type": "newspaper coverage",
-        "description": "Extensive press coverage during panic periods",
-        "status": "documented",
-        "analysis": "Shows media amplification effect; coverage patterns correlate with report spikes, suggesting feedback loop"
-      }
-    ]
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
   },
-
   "theories": {
-    "folkloric": [
-      {
-        "name": "Black Magic Ritual",
-        "description": "Traditional belief: men perform occult rituals with black oil to gain supernatural powers for sexual conquest",
-        "proponents": ["Traditional Malay belief systems", "Some rural communities"],
-        "evidence_cited": [
-          "Consistency with broader ilmu hitam (black magic) traditions",
-          "Reports of ritual sites and materials",
-          "Cultural precedents for power-through-ritual narratives"
-        ]
-      }
-    ],
-    "criminal": [
-      {
-        "name": "Tactical Criminal Strategy",
-        "description": "Perpetrators used oil coating as practical method to evade capture and heighten terror",
-        "proponents": ["Law enforcement", "Criminologists", "Modern skeptics"],
-        "evidence_cited": [
-          "Documented arrests of oil-covered assault suspects",
-          "Practical advantages: difficult to grab, conceals identity, psychological terror",
-          "No evidence of supernatural elements"
-        ]
-      },
-      {
-        "name": "Serial Assault Pattern",
-        "description": "Series of unrelated sexual assaults attributed to single mythical figure",
-        "proponents": ["Criminologists", "Skeptical researchers"],
-        "evidence_cited": [
-          "Geographic and temporal clustering suggests multiple perpetrators",
-          "Some cases confirmed as ordinary (non-oil) assaults misattributed",
-          "Folklore provided convenient explanation for traumatic events"
-        ]
-      }
-    ],
-    "sociological": [
-      {
-        "name": "Moral Panic Theory",
-        "description": "Classic moral panic amplified by media, reflecting anxieties about social change, women's safety, and modernity",
-        "proponents": ["Sociologists", "Folklorists", "Cultural historians"],
-        "evidence_cited": [
-          "Timing correlates with major social upheavals (independence, racial riots, urbanization)",
-          "Media amplification patterns consistent with moral panic model",
-          "Reports spike after coverage, then fade",
-          "Targeted women entering workforce and public life",
-          "Served as vehicle for anxieties about changing gender roles"
-        ]
-      },
-      {
-        "name": "Post-Colonial Anxiety Expression",
-        "description": "Legend reflects anxieties about loss of traditional social structures, modernity, and cultural identity during post-colonial transition",
-        "proponents": ["Post-colonial scholars", "Cultural anthropologists"],
-        "evidence_cited": [
-          "Peak periods coincide with major political transitions",
-          "Represents fear of uncontrollable forces in rapidly changing society",
-          "Targets (women) symbolize cultural change and modernization",
-          "Supernatural elements represent anxiety about loss of traditional protections"
-        ]
-      },
-      {
-        "name": "Mass Hysteria and Suggestion",
-        "description": "Initial reports triggered mass hysteria; subsequent incidents represent misidentification, false reports, and copycat behavior",
-        "proponents": ["Psychologists", "Skeptical investigators"],
-        "evidence_cited": [
-          "Clustering of reports following media coverage",
-          "Some proven false reports and misidentifications",
-          "Psychological contagion effects documented in other panics",
-          "Declining reports as media attention waned"
-        ]
-      }
-    ],
-    "feminist": [
-      {
-        "name": "Gendered Violence Discourse",
-        "description": "Phenomenon reflects and obscures real epidemic of sexual violence while externalizing threat into supernatural 'other'",
-        "proponents": ["Feminist scholars", "Gender studies researchers"],
-        "evidence_cited": [
-          "Real sexual assaults occurred but were attributed to mythical figure",
-          "Focus on supernatural attacker deflected from systemic gender violence",
-          "Women's legitimate safety concerns channeled into folklore",
-          "Victim testimony shaped by gendered expectations and cultural narratives"
-        ]
-      }
-    ]
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
     "folklore": {
-      "traditional_narrative": "Man seeks supernatural powers through black magic ritual: covers himself in oil blessed by djinn or prepared through occult means, often involving grave dirt, incantations, and specific lunar timing. Oil grants invisibility or protection from harm. Ritual requires payment (soul, morality, or completion of evil acts like rape). Used to assault virgin women or seduce married women. Eventually caught when ritual breaks or fails.",
-      "variants": [
-        "Oil must be derived from coconuts stolen from graveyards",
-        "Requires pact with djinn or forest spirits",
-        "Powers only work during specific lunar phases",
-        "Must assault specific number of virgins to complete ritual",
-        "Caught if single drop of water touches him"
-      ],
-      "moral_themes": [
-        "Danger of forbidden knowledge",
-        "Consequences of using black magic",
-        "Male sexual predation and punishment",
-        "Protection of female virtue",
-        "Boundaries between human and supernatural"
-      ]
-    },
-    "social_impact": {
-      "fear_response": [
-        "Women and families refusing to sleep alone or with windows open",
-        "Community vigilante patrols in affected neighborhoods",
-        "Sales of locks and security equipment increased",
-        "Women altering behavior: avoiding being alone, leaving workforce",
-        "Traditional protective rituals (amulets, prayers) revived"
-      ],
-      "media_role": [
-        "Sensationalized coverage in Malay and English language press",
-        "Headlines amplified fear and spread reports geographically",
-        "Created feedback loop: coverage led to more reports, more coverage",
-        "Some newspapers eventually published skeptical pieces urging calm",
-        "Radio and early TV coverage spread panic to rural areas"
-      ],
-      "political_dimensions": [
-        "Used by some politicians to criticize moral decline",
-        "Invoked in debates about women's roles and modesty",
-        "Connected to anxieties about racial integration and independence",
-        "Police responses sometimes politicized",
-        "Became symbol of social disorder requiring strong governance"
-      ]
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "film": [
-        "Orang Minyak (1958) - Early Malaysian horror film",
-        "Sumpah Orang Minyak (1959) - Curse of the Oily Man",
-        "Orang Minyak (1968) - P. Ramlee's famous version",
-        "Various exploitation and horror films through 1970s-1980s"
-      ],
-      "literature": [
-        "Referenced in Malaysian horror fiction",
-        "Subject of academic papers on folklore and moral panic",
-        "Featured in collections of Malay ghost stories"
-      ],
-      "modern_media": [
-        "Internet forums and social media discussions",
-        "YouTube videos claiming sightings",
-        "Skeptical podcast and blog analyses",
-        "Used as cautionary tale in safety awareness campaigns"
-      ]
-    },
-    "gender_and_safety": {
-      "women_targeted": "Legend specifically targets women, particularly young and unmarried, reflecting and reinforcing gendered vulnerability",
-      "safety_discourse": "Became vehicle for discussing women's safety, leading to both protective measures and victim-blaming narratives",
-      "control_of_women": "Panic used to justify restrictions on women's movement, employment, and independence",
-      "victim_experience": "Real assault victims faced double trauma: attack and disbelief/supernatural interpretation of their experience"
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
   "research": {
-    "academic_studies": [
-      {
-        "focus": "Moral panic analysis",
-        "discipline": "Sociology",
-        "significance": "Orang Minyak studied as textbook case of moral panic in post-colonial context"
-      },
-      {
-        "focus": "Folklore and modernity",
-        "discipline": "Anthropology",
-        "significance": "Examines how traditional folklore adapts to and explains modern anxieties"
-      },
-      {
-        "focus": "Gender and violence",
-        "discipline": "Gender Studies",
-        "significance": "Analyzes how legend reflects and obscures gendered violence"
-      },
-      {
-        "focus": "Media and mass hysteria",
-        "discipline": "Communication Studies",
-        "significance": "Studies media's role in amplifying and shaping urban legends"
-      },
-      {
-        "focus": "Post-colonial anxiety",
-        "discipline": "Post-Colonial Studies",
-        "significance": "Interprets legend as expression of post-independence social stress"
-      }
-    ],
-    "key_researchers": [
-      {
-        "name": "Various Malaysian folklorists",
-        "contribution": "Documentation of traditional folklore versions and variants"
-      },
-      {
-        "name": "Sociologists studying moral panic",
-        "contribution": "Analysis of panic patterns and social amplification"
-      },
-      {
-        "name": "Criminologists",
-        "contribution": "Study of actual assault patterns and police responses"
-      }
-    ]
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "related_concepts": {
-    "comparative_legends": [
-      "Spring-Heeled Jack (England, 1830s-1900s) - similar attacker panic",
-      "Mad Gasser of Mattoon (USA, 1944) - mass hysteria over attacker",
-      "Phantom Slasher panics (various locations, 1930s-1950s)",
-      "Halifax Slasher (England, 1938)"
-    ],
-    "theoretical_frameworks": [
-      "Moral panic theory (Stanley Cohen)",
-      "Urban legend mechanics (Jan Brunvand)",
-      "Mass hysteria and social contagion",
-      "Folklore as social anxiety expression",
-      "Gendered violence and cultural narratives"
-    ]
-  },
-
-  "contemporary_relevance": {
-    "legacy": "Orang Minyak remains cultural touchstone in Malaysia and Singapore, referenced in discussions of crime, folklore, and social panic. Serves as historical example of how folklore, real crime, and media interact.",
-    "modern_parallels": [
-      "Social media-driven crime panics",
-      "Urban legends about abduction and assault",
-      "Ongoing debates about women's safety and victim-blaming",
-      "Intersection of traditional beliefs and modern crime"
-    ],
-    "lessons": [
-      "Media's power to amplify and shape panic",
-      "How folklore provides framework for interpreting frightening events",
-      "Danger of supernatural explanations obscuring real crimes",
-      "Importance of addressing gender violence systemically",
-      "Need for critical examination of moral panics"
-    ]
-  },
-
-  "sources": [
-    {
-      "id": "souchou-2000",
-      "type": "book",
-      "title": "Narrativising Malay Identities: The Politics of Memory in Malaysia and Singapore",
-      "authors": ["Yao Souchou"],
-      "publication": "Hong Kong University Press",
-      "date": "2000"
-    },
-    {
-      "id": "clammer-1976",
-      "type": "article",
-      "title": "Orang Minyak: The Sociology of a Minor Moral Panic in Malaysia",
-      "authors": ["John Clammer"],
-      "publication": "Bijdragen tot de Taal-, Land- en Volkenkunde",
-      "date": "1976"
-    },
-    {
-      "id": "straits-times-archives",
-      "type": "archival",
-      "title": "The Straits Times Digital Archives",
-      "description": "Contemporary newspaper coverage 1950s-1980s",
-      "url": "http://eresources.nlb.gov.sg/newspapers/"
-    }
-  ]
+  "sources": []
 }
